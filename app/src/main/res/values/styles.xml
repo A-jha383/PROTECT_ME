@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="Widget.Theme.PROTECT_ME.ActionBar.Fullscreen" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/darkblue</item>
+    </style>
+
+    <style name="Widget.Theme.PROTECT_ME.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">@color/darkblue</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+</resources>

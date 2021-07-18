@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92520242608",
+    "project_id": "protect-me-57e4d",
+    "storage_bucket": "protect-me-57e4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92520242608:android:1db0c1a29a32e3052e8a75",
+        "android_client_info": {
+          "package_name": "com.example.android.protect_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92520242608-i5goeuhru4ipluvn04qooqm8lgj6evcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFTvpsxJm6l-zhrSPiMzG0sOnt0izp2ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92520242608-i5goeuhru4ipluvn04qooqm8lgj6evcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
